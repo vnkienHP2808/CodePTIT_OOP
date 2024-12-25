@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="src">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/J04013_BaiToanTuyenSinh.zip!/" />
+      <root url="jar://$PROJECT_DIR$/J04015_TinhThuNhapGiaoVien.zip!/" />
+      <root url="jar://$PROJECT_DIR$/J04010_DienTichHinhTron.zip!/" />
+      <root url="jar://$PROJECT_DIR$/J04005_KhaiBaoLopThiSinh.zip!/" />
+      <root url="jar://$PROJECT_DIR$/J04007_KhaiBaoLopNhanVien.zip!/" />
+      <root url="jar://$PROJECT_DIR$/J04008_TinhChuVi.zip!/" />
+      <root url="jar://$PROJECT_DIR$/J04003_PhanSo.zip!/" />
+      <root url="jar://$PROJECT_DIR$/J04006_KhaiBaoLopSinhVien.zip!/" />
+      <root url="jar://$PROJECT_DIR$/J04009_DienTichTamGiac.zip!/" />
+      <root url="jar://$PROJECT_DIR$/J04004_TongPhanSo.zip!/" />
+      <root url="jar://$PROJECT_DIR$/J04012_BaiToanTinhCong.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
